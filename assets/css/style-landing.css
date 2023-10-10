@@ -1,0 +1,67 @@
+body {
+    background-image: url(../images/spotifind.jpg);
+    color: #FFFFFF;
+    font-family: sans-serif;
+}
+
+header { 
+    margin-left: 5%;
+    background-color: #000000;
+    border-radius: 1rem;
+    width: 90%;
+    height: 7rem;
+}
+
+.contenedor {
+    display: flex;
+    justify-content: center;
+}
+
+
+#title {
+    margin-top: 2rem;
+    text-align: center;
+}
+
+#landing-logo {
+    margin-top:1.5rem;
+    max-height: 4rem;
+    margin-right: 0.5rem;
+}
+
+.center {
+    margin-left: 7.5%;
+    margin-top: 5rem;
+    height: 200px;
+    background-color: #000000;
+    border-radius: 1rem;
+    display: flex;
+    width: 85%;
+}
+
+.description {
+    text-align: center;
+    align-self: center;
+}
+
+.botones { 
+    padding: 3rem;
+    display:flex;
+    flex-direction: column;
+    align-items: center
+}
+
+.login {
+    background-color: #1FDF64;
+    border-radius: 1rem;
+    width: 5rem;
+    height: 2rem;
+    border: none;
+}
+
+.signin {
+    border: none;
+    width: 4rem;
+    height: 1.5rem;
+    border-radius: 1rem;
+}
