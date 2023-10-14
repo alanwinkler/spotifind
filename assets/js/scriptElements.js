@@ -20,10 +20,10 @@ document.getElementById("idheader").innerHTML = `
 </div>`
 document.getElementById("idfooter").innerHTML = `<div class="footer-container"> 
 <div>
-<a href="https://www.twitter.com" target="_blank"><i class="fa fa-twitter"
+<a class="link" href="https://www.twitter.com" target="_blank"><i class="fa fa-twitter"
         aria-hidden="true"></i></a>
-    <a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"
+    <a class="link" href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"
         aria-hidden="true"></i></a>
-    <a href="https://www.instagram.com/?hl=es" target="_blank"><i class="fa fa-instagram"
+    <a class="link" href="https://www.instagram.com/?hl=es"  target="_blank"><i class="fa fa-instagram"
         aria-hidden="true"></i></a>
 </div> <div>®Copyrght 2023</div> </div>`
